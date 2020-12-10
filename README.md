@@ -2,6 +2,8 @@
 
 > In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers. A binary classifier is a function which can decide whether or not an input, represented by a vector of numbers, belongs to some specific class. It is a type of linear classifier, i.e. a classification algorithm that makes its predictions based on a linear predictor function combining a set of weights with the feature vector. - [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 
+You can run the notebook live on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/0xnu/perceptron_algorithm/master?filepath=main.ipynb)
+
 ## Authors
 
 - **Finbarrs Oketunji** _aka 0xnu_ - _Main Developer_ - [0xnu](https://github.com/0xnu)
